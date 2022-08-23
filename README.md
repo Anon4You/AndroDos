@@ -10,13 +10,13 @@ Performa DDos attack with termux....
 * We do not forgive <br>
 * Accept us <br>
 
-## Installation just copy and paste <br>all in on command
+## Installation just copy and paste all in on command
 
 ```
 pkg install wget python -y ; wget https://raw.githubusercontent.com/Anon4You/AndroDos/main/androdos ; mv androdos $PREFIX/bin ; chmod +x $PREFIX/bin/androdos
 ```
 ## Run the tool
-> just type bellow command from any <br>directory to run the tool
+> just type bellow command from any directory to run the tool
 ```
 androdos
 ```
