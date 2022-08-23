@@ -4,19 +4,23 @@
 
 # AndroDos
 Performa DDos attack with termux....
-*We are anonymous
-*We are legion
-*We do not forget
-*We do not forgive
-*Accept us
+* We are anonymous <br>
+* We are legion <br>
+* We do not forget <br>
+* We do not forgive <br>
+* Accept us <br>
 
-## Installation just copy and paste/nall in on command
+## Installation just copy and paste <br>all in on command
 
 ```
 pkg install wget python -y ; wget https://raw.githubusercontent.com/Anon4You/AndroDos/main/androdos ; mv androdos $PREFIX/bin ; chmod +x $PREFIX/bin/androdos
 ```
 ## Run the tool
-> just type bellow command from any/ndirectory to run the tool
+> just type bellow command from any <br>directory to run the tool
 ```
 androdos
 ```
+## Author
+* [Alienkrishn](https://www.instagram.com/alienkrishn) - AndroDos
+
+
