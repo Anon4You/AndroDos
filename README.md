@@ -3,7 +3,7 @@
 <img src="Screenshot_2022-08-24-03-42-02-589_com.termux.jpg"/>
 
 # AndroDos
-Performa DDos attack with termux....
+Perform DDos attack with termux....
 * We are anonymous <br>
 * We are legion <br>
 * We do not forget <br>
