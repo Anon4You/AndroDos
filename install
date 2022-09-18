@@ -4,4 +4,4 @@ curl -LO https://raw.githubusercontent.com/Anon4You/AndroDos/main/androdos
 mv androdos $PREFIX/bin
 chmod +x $PREFIX/bin/androdos
 clear
-echo "now type 'androdos' from any directory to run this tool"
+echo "now type 'androdos' to run this tool"
