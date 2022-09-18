@@ -13,7 +13,7 @@ Performa DDos attack with termux....
 ## Installation just copy and paste all in one command
 
 ```
-pkg install wget python -y ; wget https://raw.githubusercontent.com/Anon4You/AndroDos/main/androdos ; mv androdos $PREFIX/bin ; chmod +x $PREFIX/bin/androdos
+curl -sSL https://raw.githubusercontent.com/Anon4You/AndroDos/main/install | bash
 ```
 ## Run the tool
 > just type bellow command from any directory to run the tool
